@@ -17,4 +17,4 @@ Please make sure to update the .env file for the following keys
 - DB_USERNAME
 - DB_PASSWORD
 
-The sample database backup is provided in the folder "db"
+The sample database backup is provided in the folder "db" under root folder.
