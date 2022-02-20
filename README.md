@@ -16,3 +16,5 @@ Please make sure to update the .env file for the following keys
 - DB_DATABASE
 - DB_USERNAME
 - DB_PASSWORD
+
+The sample database backup is provided in the folder "db"
